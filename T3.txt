@@ -1,0 +1,5 @@
+T3
+“Okay, I need to buy bread, so I’ll search for it first. I’ll pick one and add it to my cart. Now, where’s the cart? Okay, found it. I’ll open it and look for the checkout option. Let me see what happens next and whether I can easily go back if I need to change something.”
+
+
+“Now I’ll search for bread on SwiftBasket. I’ll select one and add it to my cart. Let’s open the cart and see the total. Okay, I can see the checkout option here, so I’ll click on it and see what comes next. The steps seem pretty straightforward so far.”

@@ -1,0 +1,5 @@
+T5
+“First, I’m looking for where I can search for bread. I can see the search option, so I’ll click on it. Now I’m checking which bread options are available. I’ll choose one that looks suitable. I’m looking for the Add button. Now I want to check whether the item has been added to my cart. I’ll open the cart and see how to proceed to checkout.”
+
+
+“I’m starting from the home screen. I’ll look for the search bar and search for bread. I’m checking the product options and opening one. I’ll add it to my cart and check whether the cart count updates. Now I’ll open the cart and see if the total and checkout option are easy to understand.”

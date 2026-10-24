@@ -1,0 +1,6 @@
+T1
+“I’ll search for bread and add a product. Now I need to find the cart. I’m looking for the checkout button. I want to understand what happens next and whether the steps are clear. I’ll check whether I can go back to the cart or return to shopping without getting confused.”
+
+
+
+“I’ll find bread from the home screen and add it to my cart. I’m opening the cart and looking for the checkout option. I’m checking whether the buttons clearly show me what to do next. I’ll also see whether moving between the cart and other screens feels straightforward.”
